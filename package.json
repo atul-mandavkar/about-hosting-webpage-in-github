@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "name": "hello",
+  "description": "try free publically hosting",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-mandavkar/hello.git"
+  },
+  "author": "Atul Mandavkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atul-mandavkar/hello/issues"
+  },
+  "homepage": "https://github.com/atul-mandavkar/hello#readme"
+}
