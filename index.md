@@ -2,7 +2,6 @@
   <head>
   </head>
   <body> 
-    <link href="views/index.html">
-    <script src="main.js"></script>
+    <a href="views/index.html">link1</a>
   </body>
 </html>
