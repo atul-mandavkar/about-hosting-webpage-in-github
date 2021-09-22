@@ -2,7 +2,7 @@
   <head>
   </head>
   <body> 
-    <a href="public/index.html">link1</a><br />
-    <a href="main.js">link2</a>
+    <a href="views/index.html">link1</a><br />
+    check 
   </body>
 </html>
